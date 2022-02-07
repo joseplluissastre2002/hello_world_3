@@ -9,7 +9,7 @@ Mi primer repositorio para la tarea 3
 ###### La rama readme-edit
 ####### Primer paso creamos el repositorio
 
-![Paso 1](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img/paso_1.PNG?token=GHSAT0AAAAAABRKDKVSLIYYA3WYSTGL6QHKYQA6MFQ "Paso 1")
+![Paso1](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img/paso_1.PNG?token=GHSAT0AAAAAABRKDKVSLIYYA3WYSTGL6QHKYQA6MFQ "Paso 1")
 
 ######### Segundo paso creamos un branch el cual se llamara readme-edit
 
