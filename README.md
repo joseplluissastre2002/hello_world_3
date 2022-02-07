@@ -9,7 +9,7 @@ Mi primer repositorio para la tarea 3
 ###### La rama readme-edit
 #######Primer paso creamos el repositorio
 Reference-style: 
-![Paso 1](https://github.com/adam-p/markdown-here/raw/master/src/common/images/paso_1.PNG "Paso 1")
+![Paso 1](https://github.com/adam-p/markdown-here/raw/master/src/common/img/paso_1.PNG "Paso 1")
 
 ######### Segundo paso creamos un branch el cual se llamara readme-edit
 ![Paso 2](https://github.com/adam-p/markdown-here/raw/master/src/common/images/paso_2.PNG "Paso 2")
