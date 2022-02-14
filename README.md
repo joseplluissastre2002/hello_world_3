@@ -31,31 +31,39 @@ Mi primer repositorio para la tarea 3
 
 ### MODIFICAMOS EL REPOSITORIO
 
-# creamos un branch
-git branch hola
-(https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso1.PNG?token=GHSAT0AAAAAABRRYDOEOLEBAT74EFCLJAV4YQKF2AA "Paso 1")
-#cambiamos el branch 
-git checkout hola
-
-# Creamos dos md y los añadimos
+# Hcemos un clone
+git clone https://github.com/owner/repo.git
+![Paso 1](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso1.PNG?token=GHSAT0AAAAAABRRYDOEOLEBAT74EFCLJAV4YQKF2AA "Paso 1")
+#hacemos un cd
+cd repo
+![Paso 2](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso2.PNG?token=GHSAT0AAAAAABRRYDOEELDJPAKYHNF6FF7WYQKGDGQ "Paso 2")
+# hacemos un branch
+git branch my-branch
+![Paso 3](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso3.PNG?token=GHSAT0AAAAAABRRYDOETTOCLUZUWETA5WQYYQKGEIA "Paso 3")
+# Lo cambiamos con un checkout
+git checkout my-branch
+![Paso 4](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso4.PNG?token=GHSAT0AAAAAABRRYDOFDR3YSRLHOVWFJ55OYQKGE4A)
+# Le hacemos un add a file1 y 2
 git add file1.md file2.md
-
+![Paso 5](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso5.PNG?token=GHSAT0AAAAAABRRYDOFUPTHJAN73NDETEU6YQKGMDQ "Paso 5")
 # Hacemos un commit
-git commit -m "hola"
-
-# Y por ultimo hacemos un push
-git push --set-upstream origin hola
+git commit -m "my snapshot"
+![Paso 6](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso6.PNG?token=GHSAT0AAAAAABRRYDOEEEDVJJUEMNR2EZN6YQKGM2Q "Paso 6")
+# Hacemos un push
+git push --set-upstream origin my-branch
+![Paso 7](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso7.PNG?token=GHSAT0AAAAAABRRYDOFD53S24O4SXWRXFREYQKGNTQ "Paso 7")
 
 ## RAMA
 
 # cambiamos una rama existente por otra que se llame feature-a
 git checkout feature-a
-
+![Paso 1](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej2%20paso1.PNG?token=GHSAT0AAAAAABRRYDOFF3LUYH6HIPGNA46GYQKGOTA "Paso 1")
 # cambiamos el archivo
 git add file1.md
-
+![Paso 2](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej2%20paso1.PNG?token=GHSAT0AAAAAABRRYDOFF3LUYH6HIPGNA46GYQKGOTA "Paso 2")
 # hacemos un commit
 git commit -m "editamos file1"
-
+![Paso 3](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej2%20paso3.PNG?token=GHSAT0AAAAAABRRYDOFDZAN6VBCJOQM64W6YQKGQAA "Paso 3")
 # Hacemos un push
 git push
+![Paso 4](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej2%20paso4.PNG?token=GHSAT0AAAAAABRRYDOFVWB64BN3ATX77IIUYQKGQSQ "Paso 4")
