@@ -33,7 +33,7 @@ Mi primer repositorio para la tarea 3
 
 # creamos un branch
 git branch hola
-
+(https://github.com/joseplluissastre2002/hello_world_3/blob/main/img%20ej/ej1%20paso1.PNG "Paso 1")
 #cambiamos el branch 
 git checkout hola
 
