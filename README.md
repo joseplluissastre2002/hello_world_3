@@ -33,37 +33,48 @@ Mi primer repositorio para la tarea 3
 
 # Hcemos un clone
 git clone https://github.com/owner/repo.git
+
 ![Paso 1](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso1.PNG?token=GHSAT0AAAAAABRRYDOETH5OENYJQVQ3FXE2YQKGSVQ)
 #hacemos un cd
 cd repo
+
 ![Paso 2](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso2.PNG?token=GHSAT0AAAAAABRRYDOEAGYHTXYEAVGP46SMYQKGSFA)
 # hacemos un branch
 git branch my-branch
+
 ![Paso 3](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso3.PNG?token=GHSAT0AAAAAABRRYDOEK7D4OCWFZRE55WQYYQKGTJA)
 # Lo cambiamos con un checkout
 git checkout my-branch
+
 ![Paso 4](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso4.PNG?token=GHSAT0AAAAAABRRYDOFPTF7F2HXLBTL3TD4YQKGTZQ)
 # Le hacemos un add a file1 y 2
 git add file1.md file2.md
+
 ![Paso 5](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso5.PNG?token=GHSAT0AAAAAABRRYDOEKZFIU3BZHTYCJANAYQKGUYA)
 # Hacemos un commit
 git commit -m "my snapshot"
+
 ![Paso 6](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso6.PNG?token=GHSAT0AAAAAABRRYDOFH6CIEJJKC6AZE2EOYQKGVGA)
 # Hacemos un push
 git push --set-upstream origin my-branch
+
 ![Paso 7](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso7.PNG?token=GHSAT0AAAAAABRRYDOFEEN4LQMMZKEK3AHGYQKGVQQ)
 
 ## RAMA
 
 # cambiamos una rama existente por otra que se llame feature-a
 git checkout feature-a
-![Paso 1](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej2%20paso1.PNG?token=GHSAT0AAAAAABRRYDOFF3LUYH6HIPGNA46GYQKGOTA "Paso 1")
+
+![Paso 1](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej2%20paso1.PNG?token=GHSAT0AAAAAABRRYDOFG35AD45GR4KXTBROYQKGW2Q)
 # cambiamos el archivo
 git add file1.md
-![Paso 2](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej2%20paso1.PNG?token=GHSAT0AAAAAABRRYDOFF3LUYH6HIPGNA46GYQKGOTA "Paso 2")
+
+![Paso 2](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej2%20paso2.PNG?token=GHSAT0AAAAAABRRYDOEHWVBWOGR2SHYDO4EYQKGXOA)
 # hacemos un commit
 git commit -m "editamos file1"
-![Paso 3](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej2%20paso3.PNG?token=GHSAT0AAAAAABRRYDOFDZAN6VBCJOQM64W6YQKGQAA "Paso 3")
+
+![Paso 3](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej2%20paso3.PNG?token=GHSAT0AAAAAABRRYDOE7JZ5PA7CJWMKMUKKYQKGYDA)
 # Hacemos un push
 git push
-![Paso 4](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej2%20paso4.PNG?token=GHSAT0AAAAAABRRYDOFVWB64BN3ATX77IIUYQKGQSQ "Paso 4")
+
+![Paso 4](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej2%20paso4.PNG?token=GHSAT0AAAAAABRRYDOE3Z6YL4PAUKAMMZBUYQKGYSA)
