@@ -33,25 +33,25 @@ Mi primer repositorio para la tarea 3
 
 # Hcemos un clone
 git clone https://github.com/owner/repo.git
-![Paso 1](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso1.PNG?token=GHSAT0AAAAAABRRYDOEOLEBAT74EFCLJAV4YQKF2AA "Paso 1")
+![Paso 1](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso1.PNG?token=GHSAT0AAAAAABRRYDOETH5OENYJQVQ3FXE2YQKGSVQ)
 #hacemos un cd
 cd repo
-![Paso 2](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso2.PNG?token=GHSAT0AAAAAABRRYDOEELDJPAKYHNF6FF7WYQKGDGQ "Paso 2")
+![Paso 2](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso2.PNG?token=GHSAT0AAAAAABRRYDOEAGYHTXYEAVGP46SMYQKGSFA)
 # hacemos un branch
 git branch my-branch
-![Paso 3](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso3.PNG?token=GHSAT0AAAAAABRRYDOETTOCLUZUWETA5WQYYQKGEIA "Paso 3")
+![Paso 3](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso3.PNG?token=GHSAT0AAAAAABRRYDOEK7D4OCWFZRE55WQYYQKGTJA)
 # Lo cambiamos con un checkout
 git checkout my-branch
-![Paso 4](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso4.PNG?token=GHSAT0AAAAAABRRYDOFDR3YSRLHOVWFJ55OYQKGE4A)
+![Paso 4](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso4.PNG?token=GHSAT0AAAAAABRRYDOFPTF7F2HXLBTL3TD4YQKGTZQ)
 # Le hacemos un add a file1 y 2
 git add file1.md file2.md
-![Paso 5](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso5.PNG?token=GHSAT0AAAAAABRRYDOFUPTHJAN73NDETEU6YQKGMDQ "Paso 5")
+![Paso 5](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso5.PNG?token=GHSAT0AAAAAABRRYDOEKZFIU3BZHTYCJANAYQKGUYA)
 # Hacemos un commit
 git commit -m "my snapshot"
-![Paso 6](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso6.PNG?token=GHSAT0AAAAAABRRYDOEEEDVJJUEMNR2EZN6YQKGM2Q "Paso 6")
+![Paso 6](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso6.PNG?token=GHSAT0AAAAAABRRYDOFH6CIEJJKC6AZE2EOYQKGVGA)
 # Hacemos un push
 git push --set-upstream origin my-branch
-![Paso 7](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso7.PNG?token=GHSAT0AAAAAABRRYDOFD53S24O4SXWRXFREYQKGNTQ "Paso 7")
+![Paso 7](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img%20ej/ej1%20paso7.PNG?token=GHSAT0AAAAAABRRYDOFEEN4LQMMZKEK3AHGYQKGVQQ)
 
 ## RAMA
 
