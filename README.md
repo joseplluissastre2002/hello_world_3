@@ -45,3 +45,17 @@ git commit -m "hola"
 
 # Y por ultimo hacemos un push
 git push --set-upstream origin hola
+
+## RAMA
+
+# cambiamos una rama existente por otra que se llame feature-a
+git checkout feature-a
+
+# cambiamos el archivo
+git add file1.md
+
+# hacemos un commit
+git commit -m "editamos file1"
+
+# Hacemos un push
+git push
