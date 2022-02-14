@@ -28,3 +28,20 @@ Mi primer repositorio para la tarea 3
 ################# Quinto paso eliminamos el readme-edit con merging pull request
 
 ![Paso 5](https://raw.githubusercontent.com/joseplluissastre2002/hello_world_3/main/img/paso_5.PNG?token=GHSAT0AAAAAABRKDKVS2ORO6JPHCNP3SD7UYQA6SBQ "Paso 5")
+
+### MODIFICAMOS EL REPOSITORIO
+
+# creamos un branch
+git branch hola
+
+#cambiamos el branch 
+git checkout hola
+
+# Creamos dos md y los añadimos
+git add file1.md file2.md
+
+# Hacemos un commit
+git commit -m "hola"
+
+# Y por ultimo hacemos un push
+git push --set-upstream origin hola
